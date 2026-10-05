@@ -35,7 +35,7 @@ Maven and JavaFX do not need separate installations; the Maven Wrapper downloads
 ```bash
 git clone https://github.com/ElyasNajeh/SocialMedia-Management-System.git
 cd SocialMedia-Management-System
-./mvnw clean test
+./mvnw clean
 ./mvnw javafx:run
 ```
 
